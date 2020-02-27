@@ -1,0 +1,33 @@
+{
+  "name": "new-personal-website",
+  "version": "0.1.0",
+  "description": "My new (started February, 2020) personal website. Exploring and developing skills with web design, adobe xd, lerna, nuxt, css grid and flexbox, better project layout. Starting with blog, resume, carousel, mobile friendly, and portfolio.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blog",
+    "portfolio",
+    "website",
+    "homepage",
+    "resume",
+    "carousel"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomrembrown/new-personal-website.git"
+  },
+  "author": "Tom Brown <tom@tomrembrown.com> (www.tomrembrown.com)",
+  "license": "MIT",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/tomrembrown/new-personal-website/issues"
+  },
+  "homepage": "https://github.com/tomrembrown/new-personal-website#readme",
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
+}
